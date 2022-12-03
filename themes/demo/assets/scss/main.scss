@@ -1,0 +1,5 @@
+@use 'variables';
+
+.red-text {
+  color: variables.$red;
+}
